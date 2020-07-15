@@ -6,7 +6,7 @@ I found the Github secret while creating random ✨ _special_ ✨ repository.
 
 Here are some ideas to get you started:
 -->
-My name is Parth 👨‍💻. I am a Deep Learning Engineer, currently working on a Computer Vision domain. I am passionate about photography and data-driven technologies. In my spare time you will probably find me in blogs, tutorials, even sports like badminton.
+My name is Parth 👨‍💻. I am a Deep Learning Engineer, currently working on a Computer Vision domain. I am passionate about photographic Image Processing and data-driven technologies. In my spare time you will probably find me in blogs, tutorials, even sports like badminton.
 
 I would love to help tech community to ensure that upcoming world will be better for 👨‍👩‍👦 humans and 🌎 enviroment. 
 
