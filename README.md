@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 My name is Parth 👨‍💻. I am a Deep Learning Engineer, currently working on a Computer Vision domain. I am passionate about photographic Image Processing and data-driven technologies. In my spare time you will probably find me in blogs, tutorials, even sports like badminton.
 
-I would love to help tech community to ensure that upcoming world will be better for 👨‍👩‍👦 humans and 🌎 enviroment. 
+I would love to help tech community to ensure that upcoming world will be better for 👨‍👩‍👦 humans and 🌎 environment. 
 
-- 🔭 I’m currently working on Flask based tutorials for the blog.
-- 🌱 I’m currently learning various computer vision papers
+- 🔭 I’m currently working on Computer vision applications.
+- 🌱 I’m currently learning various computer vision papers.
 - 👯 I’m looking to collaborate on any opensource project which is based on Python.
 - 💬 Ask me about anything related to developement.
 - 📫 How to reach me: 
