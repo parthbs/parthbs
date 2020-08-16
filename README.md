@@ -16,6 +16,5 @@ I would love to help tech community to ensure that upcoming world will be better
 - 💬 Ask me about anything related to developement.
 - 📫 How to reach me: 
 <p align="left">
-  <a href="https://www.instagram.com/parthbs/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
   <a href="https://twitter.com/parthbs_"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 </p>
