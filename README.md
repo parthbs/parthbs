@@ -1,6 +1,5 @@
 ## Hi there 👋
-I found the Github secret while creating random ✨ _special_ ✨ repository. 
-
+ 
 My name is Parth 👨‍💻. I am a Software Developer(Deep Learning), currently working on a Computer Vision domain. I am passionate about photographic Image Processing and data-driven technologies. In my spare time you will probably find me in blogs, tutorials, even sports like badminton.
 
 I would love to help tech community to ensure that upcoming world will be better for 👨‍👩‍👦 humans and 🌎 environment. 
